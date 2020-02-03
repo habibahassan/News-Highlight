@@ -31,24 +31,24 @@ def get_sources(category):
     
     return sources_results
 
-# def process_results(news_sources_list):
-#     '''
-#     Function that processes the json results
-#     '''
-#     news_sources_results = []
+def process_results(news_sources_list):
+    '''
+    Function that processes the json results
+    '''
+    news_sources_results = []
 
-#     for source in news_sources_list:
-#         id = source.get('id')
-#         name = source.get('name')
-#         description = source.get('description')
-#         url = source.get('url')
-#         category = source.get('category')
-#         country = source.get('country')
-#         if url:
-#             news_source_object = Sources(id,name,description,url,category,country)
-#             news_sources_results.append(news_source_object)
+    for source in news_sources_list:
+        id = source.get('id')
+        name = source.get('name')
+        description = source.get('description')
+        url = source.get('url')
+        category = source.get('category')
+        country = source.get('country')
+        if url:
+            news_source_object = Sources(id,name,description,url,category,country)
+            news_sources_results.append(news_source_object)
     
-#     return news_sources_results
+    return news_sources_results
 
 # def get_articles(id):
 #     '''
