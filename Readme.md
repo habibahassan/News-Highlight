@@ -17,3 +17,7 @@ By Habiba Hassan
 ## Contacts
 * Tel:+254725142516
 * Email:halimaadan92@gmail.com
+## License
+licensed under the [MIT License](license)
+ copyright(c) 2020 News-Highlights
+
