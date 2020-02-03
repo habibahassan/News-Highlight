@@ -12,3 +12,5 @@ Open your mobile data and go to your browser open github and git clone my reposi
 * News Api
 ## Contributing
 Pull request is welcome for any information contact me on my number or email.
+## Author and acknowledgment
+By Habiba Hassan
