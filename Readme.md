@@ -14,6 +14,8 @@ Open your mobile data and go to your browser open github and git clone my reposi
 Pull request is welcome for any information contact me on my number or email.
 ## Author and acknowledgment
 By Habiba Hassan
+## Code Beat
+[![codebeat badge](https://codebeat.co/badges/c7e25312-1388-41b9-aeb2-009d873c4756)](https://codebeat.co/projects/github-com-habibahassan-news-highlight-master)
 ## Contacts
 * Tel:+254725142516
 * Email:halimaadan92@gmail.com
